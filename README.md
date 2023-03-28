@@ -8,7 +8,7 @@
 
 <div align=center>
 
-|[<img src="https://avatars.githubusercontent.com/u/73567364?v=4" width = "250"/></a>](https://github.com/mg4432)|[<img src="https://avatars.githubusercontent.com/u/73216281?v=4" width = "260"/></a>](https://github.com/kangjun205)|
+|[<img src="https://avatars.githubusercontent.com/u/73567364?v=4" width = "250"/></a>](https://github.com/mg4432)|[<img src="https://avatars.githubusercontent.com/u/73216281?v=4" width = "250"/></a>](https://github.com/kangjun205)|
 |:--:|:--:|
 |[Mingyu Park](https://github.com/mg4432/)|[Kyungjun Kang](https://github.com/kangjun205)|
 
