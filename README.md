@@ -1,5 +1,6 @@
-# Kaggle-Battle-ground
- 캐글 - PUBG Finish Placement Prediction 순위 예측 모델 개발 프로젝트
+# 기계학습을 통한 매치 순위에 영향을 미치는 요인 파악
+
+> Kaggle - PUBG Finish Placement Prediction 순위 예측 모델 개발 프로젝트
 
 # 1. 프로젝트 개요
 
