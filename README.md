@@ -130,7 +130,7 @@ MAE : 0.01836
 │    └── LightGBM_final.ipynb   # Final model
 ├── 📂 dataset
 │    ├── train_sample.csv   # train data sample
-│    ├── test_sample.csv   # testdata sample
+│    ├── test_sample.csv   # test data sample
 │    └── sampleSubmission_sample.csv   # submission file sample
 └── 📂 final
      ├── report.pptx 
